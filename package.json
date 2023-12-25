@@ -13,7 +13,7 @@
     "db-ui": "npx mongoku start"
   },
   "dependencies": {
-    "@types/node": "20.8.10",
+    "@types/node": "20.10.3",
     "@types/react": "18.2.31",
     "@types/react-dom": "18.2.15",
     "autoprefixer": "10.4.16",
